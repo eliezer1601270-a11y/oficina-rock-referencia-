@@ -1,0 +1,12 @@
+{
+	"appId": "com.oficinadorock.motoclube",
+	"appName": "Oficina do Rock MC",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"backgroundColor": "#0c0c0e",
+		"allowMixedContent": true
+	}
+}
